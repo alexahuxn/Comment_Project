@@ -1,0 +1,4 @@
+In the first semester, we covered the fundamentals of Python, including loops, conditionals, functions, and dictionaries. In addition, we explored connections between math and computer science, including plotting, simulating the game of craps, and optimizing customer service at a bank.
+    Presley is doing well in Computer Science. He has a grade of 80.2 for this semester. Presley performed well on problem set 1-3. Presley showed improvement in the problem sets over the course of the semester. Presley wrote in his reflection:
+	"I found it is hard for me to focus in class. Some of the concepts are hard to understand."
+   Presley should ask for more help on assignments. Presley did a poor job contributing to the group bank project. He needs to work on teamwork. Based on his tests, Presley is doing fine in Computer Science. He earned a 70 on his final exam.

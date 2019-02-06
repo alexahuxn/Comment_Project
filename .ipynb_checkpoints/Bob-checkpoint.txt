@@ -1,0 +1,4 @@
+In the first semester, we covered the fundamentals of Python, including loops, conditionals, functions, and dictionaries. In addition, we explored connections between math and computer science, including plotting, simulating the game of craps, and optimizing customer service at a bank.
+    Bob is doing alright in Computer Science. He has a grade of 72 for this semester. Bob performed above average on problem set 1-3. Bob showed improvement in the problem sets over the course of the semester. Bob wrote in his reflection:
+	"I like to play video games in class, which means I am not focused."
+   Bob should ask for more help on assignments. Bob did a poor job contributing to the group bank project. He needs to work on teamwork. Based on his tests, Bob is struggling in Computer Science. He earned a 68 on his final exam.

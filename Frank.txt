@@ -1,0 +1,4 @@
+In the first semester, we covered the fundamentals of Python, including loops, conditionals, functions, and dictionaries. In addition, we explored connections between math and computer science, including plotting, simulating the game of craps, and optimizing customer service at a bank.
+    Frank is doing very well in Computer Science. He has a grade of 98.8 for this semester. Frank performed very well on problem set 1-3. Frank showed improvement in the problem sets over the course of the semester. Frank wrote in his reflection:
+	"I enjoy having this class. Everything is easy for me. I made couple mistakes in the problem set because I was careless."
+   Frank didn't ask for much help this semester, but he didn't seem to need it. Frank did a poor job contributing to the group bank project. He needs to work on teamwork. Based on his tests, Frank is doing very well in Computer Science. He earned a 98 on his final exam.
