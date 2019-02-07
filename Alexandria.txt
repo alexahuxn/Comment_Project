@@ -1,4 +1,4 @@
-In the first semester, we covered the fundamentals of Python, including loops, conditionals, functions, and dictionaries. In addition, we explored connections between math and computer science, including plotting, simulating the game of craps, and optimizing customer service at a bank.
+In the first semester, we covered the fundamentals of Python, including loops, conditionals, functions, and dictionaries. In addition, we explored connections between math and computer science, including plotting, simulating the game of craps, and optimizing customer service at banks.
     Alexandria is doing very well in Computer Science. She has a grade of 91.2 for this semester. Alexandria performed very well on problem set 1-3. Alexandria showed improvement in the problem sets over the course of the semester. Alexandria wrote in her reflection:
 	"I can't believe I only have an A-."
    Alexandria did a good job asking for help this semester. Alexandria did a poor job contributing to the group bank project. She needs to work on teamwork. Based on her tests, Alexandria is doing fine in Computer Science. She earned an 87 on her final exam.

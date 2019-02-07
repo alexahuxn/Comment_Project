@@ -1,4 +1,4 @@
-In the first semester, we covered the fundamentals of Python, including loops, conditionals, functions, and dictionaries. In addition, we explored connections between math and computer science, including plotting, simulating the game of craps, and optimizing customer service at a bank.
+In the first semester, we covered the fundamentals of Python, including loops, conditionals, functions, and dictionaries. In addition, we explored connections between math and computer science, including plotting, simulating the game of craps, and optimizing customer service at banks.
     Jill is doing well in Computer Science. She has a grade of 89 for this semester. Jill performed well on problem set 1-3. Jill showed improvement in the problem sets over the course of the semester. Jill wrote in her reflection:
 	"Computer Science is a very fascinating class. I am engaged in class and turn my homework in on time."
    Jill did a good job asking for help this semester. Jill did a poor job contributing to the group bank project. She needs to work on teamwork. Based on her tests, Jill is doing fine in Computer Science. She earned a 90 on her final exam.
